@@ -5,7 +5,7 @@
 
 
 Features
------------
+----------
 
 * **Management Room** — Admin can see listed rooms, add and edit room.
 * **Customers** — Admin can see list of registered customers, add and edit customer information.
