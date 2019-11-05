@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/siccmwn/MooSpace-API/development/image/MooSpace.png" alt="MooSpace Logo" width="500">
 </p>
-<p align="center"><em>MooSpace is Management Coworking Space Room for Admin, builded with React Native.</em></p>
+<p align="center"><em>MooSpace is Management Room App for Admin, builded with React Native.</em></p>
 
 
 Features
